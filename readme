@@ -1,0 +1,3 @@
+npm init -y
+
+npm i @discordjs/opus @discordjs/voice axios discord.js ffmpeg ffmpeg-static libsodium-wrappers opusscript
